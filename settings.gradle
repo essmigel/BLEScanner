@@ -1,0 +1,2 @@
+include ':app', ':blescanner'
+rootProject.name='BLEScannerSample'
