@@ -1,6 +1,5 @@
 # BLEScanner
-[ ![Download](https://api.bintray.com/packages/essmigel/BLEScanner/com.masoud.blescanner/images/download.svg) ]
-(https://bintray.com/essmigel/BLEScanner/com.masoud.blescanner/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/essmigel/BLEScanner/com.masoud.blescanner/images/download.svg) ](https://bintray.com/essmigel/BLEScanner/com.masoud.blescanner/_latestVersion)
 
 A library to Scan BLE Devices and filter them with beacon's UUID or mac address
 
